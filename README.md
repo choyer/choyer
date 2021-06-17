@@ -2,9 +2,9 @@
 
 I'm a *Technologist* with skills in **infrastructure engineering / development**. I love the whirl of baremetal as much as the command line, implementation and good design. User focused.
 
-<a href="https://carl.hoyer.ca"><img src="https://img.shields.io/badge/%40choyer-yellow?style=flat-square&logo=firefoxbrowser&logoColor=orange&labelColor=ffbf00&color=ffd24d&link=https://carl.hoyer.ca" alt="Website Badge"></a>
-<a href="https://www.linkedin.com/in/carlhoyer/"><img src="https://img.shields.io/badge/%40choyer-yellow?style=flat-square&logo=linkedin&logoColor=orange&labelColor=ffbf00&color=ffd24d&link=https://www.linkedin.com/in/carlhoyer/" alt="LinkedIn Badge"></a>
-<a href="https://twitter.com/choyer"><img src="https://img.shields.io/badge/%40choyer-yellow?style=flat-square&logo=twitter&logoColor=orange&labelColor=ffbf00&color=ffd24d&link=https://twitter.com/choyer" alt="Twitter Badge"></a>
+<a href="https://carl.hoyer.ca"><img src="https://img.shields.io/badge/carl.hoyer.ca-yellow?style=flat-square&logo=firefoxbrowser&logoColor=orange&labelColor=ffbf00&color=ffdf80&link=https://carl.hoyer.ca" alt="Website Badge"></a>
+<a href="https://www.linkedin.com/in/carlhoyer/"><img src="https://img.shields.io/badge/carlhoyer-yellow?style=flat-square&logo=linkedin&logoColor=orange&labelColor=ffbf00&color=ffdf80&link=https://www.linkedin.com/in/carlhoyer/" alt="LinkedIn Badge"></a>
+<a href="https://twitter.com/choyer"><img src="https://img.shields.io/badge/%40choyer-yellow?style=flat-square&logo=twitter&logoColor=orange&labelColor=ffbf00&color=ffdf80&link=https://twitter.com/choyer" alt="Twitter Badge"></a>
 
 ### Bulletpoint Me
 
