@@ -18,6 +18,7 @@ I'm a *Technologist* with skills in **infrastructure engineering / development**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" alt="bash" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnu.svg" alt="gnu" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" alt="linux" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg" alt="apple" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windows.svg" alt="windows" width="25" height="25" />
