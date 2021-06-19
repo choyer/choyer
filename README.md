@@ -40,3 +40,5 @@ I'm a *Technologist* with skills in **infrastructure engineering / development**
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/affinitypublisher.svg" alt="affinity publisher" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/affinityphoto.svg" alt="affinity photo" width="25" height="25" />
 </p>
+
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=choyer.choyer" alt="visitors"></p>
