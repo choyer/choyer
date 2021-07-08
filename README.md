@@ -1,6 +1,6 @@
 ## Greetings. I'm [Carl](https://carl.hoyer.ca "Carl Hoyer's website") 👋🏼
 
-I'm a *Technologist* with skills in **infrastructure engineering / development**. I love the whirl of baremetal as much as the command line, implementation and good design. User focused.
+I'm a *Technologist* with skills in **infrastructure engineering / development**. I love the whirl of baremetal equally as much as the command line, problem solving and great design. I am people focused.
 
 <a href="https://carl.hoyer.ca"><img src="https://img.shields.io/badge/carl.hoyer.ca-yellow?style=flat-square&logo=firefoxbrowser&logoColor=orange&labelColor=ffbf00&color=ffdf80&link=https://carl.hoyer.ca" alt="Website Badge"></a>
 <a href="https://www.linkedin.com/in/carlhoyer/"><img src="https://img.shields.io/badge/carlhoyer-yellow?style=flat-square&logo=linkedin&logoColor=orange&labelColor=ffbf00&color=ffdf80&link=https://www.linkedin.com/in/carlhoyer/" alt="LinkedIn Badge"></a>
@@ -8,11 +8,11 @@ I'm a *Technologist* with skills in **infrastructure engineering / development**
 
 ### Bulletpoint Me
 
-- 🔭 I’m currently working on reviving the ancient two-player game [Rota](https://github.com/PlayRota).
-- 🤔 Continuing my knowledge about **IaC**, **Hybrid Cloud Architecture**, **Go**, **Rust**, and **Cyptography**.
+- 🔭 I’m currently working on reviving the ancient two-player game [Rota](https://github.com/PlayRota) for multiplayer online play.
+- 🤔 Continuing my knowledge about **IaC**, **Hybrid Cloud Architecture**, **Go**, **Rust**, and **Cryptography**.
 - 🛠️ I’m looking to increase my contributions to open source projects.
 - 🖊️ I infrequently write articles for [my blog](https://carl.hoyer.ca).
-- ⛰️ Fun fact: I mountain & distance unicycle but was never part of the circus.
+- ⛰️ Fun fact: I mountain & distance unicycle.
 
 ### My Toolbox
 
