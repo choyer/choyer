@@ -39,4 +39,4 @@ I'm a *Technologist* with skills in **infrastructure engineering / development**
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/affinityphoto.svg" alt="affinity photo" width="25" height="25" />
 </p>
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=choyer.choyer" alt="visitors"></p>
+<p>[![HitCount](https://hits.dwyl.com/choyer/choyer.svg?style=flat-square)](http://hits.dwyl.com/choyer/choyer)</p>
