@@ -4,9 +4,8 @@ I'm a *Technologist* with skills in **infrastructure engineering / development**
 
 ### Elsewhere
 
-<a href="https://carl.hoyer.ca"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firefoxbrowser.svg" alt="Personal Website" width="16" height="16" />carl.hoyer.ca</a>
-
-<a href="https://hachyderm.io/@crh"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mastodon.svg" alt="@crh@hachyderm.io" width="16" height="16" />@crh@hachyderm.io</a>
+<a href="https://carl.hoyer.ca"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firefoxbrowser.svg" alt="Personal Website" width="16" height="16" /></a> <a href="https://carl.hoyer.ca">carl.hoyer.ca</a><br>
+<a href="https://hachyderm.io/@crh"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mastodon.svg" alt="@crh@hachyderm.io" width="16" height="16" /></a> <a href="https://hachyderm.io/@crh">@crh@hachyderm.io</a>
 
 
 ### Bulletpoint Me
@@ -22,7 +21,7 @@ I'm a *Technologist* with skills in **infrastructure engineering / development**
 
 If you find any of my work useful in your endeavours consider donating or sponsoring me 🙏 ...
 
-#### <a href="https://liberapay.com/crh"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/liberapay.svg" alt="bash" width="35" height="35" />@crh on Liberapay</a>
+#### <a href="https://liberapay.com/crh"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/liberapay.svg" alt="bash" width="35" height="35" /></a> <a href="https://liberapay.com/crh">@crh on Liberapay</a>
 
 ### My Toolbox
 
