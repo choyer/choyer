@@ -2,10 +2,12 @@
 
 I'm a *Technologist* with skills in **infrastructure engineering / development**. I love the whirl of baremetal equally as much as the command line, problem solving and great design. I am people focused.
 
-### Elsewhere in digital
+### Elsewhere
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firefoxbrowser.svg" alt="Personal Website" width="16" height="16" /> [carl.hoyer.ca](https://carl.hoyer.ca)
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mastodon.svg" alt="@crh@hachyderm.io" width="16" height="16" /> [@crh@hachyderm.io](https://hachyderm.io/@crh)
+<div style="display:flex;align-items:center;">
+	<a href="https://carl.hoyer.ca"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firefoxbrowser.svg" alt="Personal Website" width="16" height="16" /> carl.hoyer.ca</a> 
+	<a href="https://hachyderm.io/@crh"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mastodon.svg" alt="@crh@hachyderm.io" width="16" height="16" /> @crh@hachyderm.io</a>
+</div>
 
 
 ### Bulletpoint Me
@@ -21,12 +23,13 @@ I'm a *Technologist* with skills in **infrastructure engineering / development**
 
 If you find any of my work useful in your endeavours consider donating or sponsoring me 🙏 ...
 
-#### <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/liberapay.svg" alt="bash" width="35" height="35" /> [@crh on Liberapay](https://liberapay.com/crh)
-
+<div style="display:flex;align-items:center;font-size: 1.3em;">
+	<a href="https://liberapay.com/crh"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/liberapay.svg" alt="bash" width="35" height="35" /> @crh on Liberapay</a>
+</div>
 
 ### My Toolbox
 
-A ollection of the tools I most frequently use:
+A collection of the tools I most frequently use:
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" alt="bash" width="25" height="25" />
