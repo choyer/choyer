@@ -2,6 +2,10 @@
 
 I'm a *Technologist* with skills in **infrastructure engineering / development**. I love the whirl and blinkenlights of baremetal just as much as problem solving, the command line, coding and great design. I am people focused.
 
+![Visits Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fchoyer%2Fchoyer.json&style=for-the-badge&label=Visits&color=green)
+![GitHub followers](https://img.shields.io/github/followers/choyer?style=for-the-badge&logo=github&color=green)
+![Liberapay receiving](https://img.shields.io/liberapay/receives/crh?style=for-the-badge&logo=liberapay)
+
 
 ## 👱🏻‍♂️ Bulletpoint Me
 
