@@ -2,10 +2,11 @@
 
 I'm a *Technologist* with skills in **infrastructure engineering / development**. I love the whirl of baremetal equally as much as the command line, problem solving and great design. I am people focused.
 
-### Elsewhere
 
-<a href="https://carl.hoyer.ca"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firefoxbrowser.svg" alt="Personal Website" width="16" height="16" /></a> <a href="https://carl.hoyer.ca">carl.hoyer.ca</a><br>
-<a href="https://hachyderm.io/@crh"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mastodon.svg" alt="@crh@hachyderm.io" width="16" height="16" /></a> <a href="https://hachyderm.io/@crh">@crh@hachyderm.io</a>
+### Elsewhere ...
+
+**Website:** [https://carl.hoyer.ca](https://carl.hoyer.ca)
+**Mastodon:** [@crh@hachyderm.io](https://hachyderm.io/@crh)
 
 
 ### Bulletpoint Me
@@ -17,11 +18,12 @@ I'm a *Technologist* with skills in **infrastructure engineering / development**
 - ⛰️ I mountain & distance unicycle. I rock climb.
 
 
-### Sponsor my work
+### Sponsorship
 
 If you find any of my work useful in your endeavours consider donating or sponsoring me 🙏 ...
 
-#### <a href="https://liberapay.com/crh"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/liberapay.svg" alt="bash" width="35" height="35" /></a> <a href="https://liberapay.com/crh">@crh on Liberapay</a>
+**Liberapay:** [https://liberapay.com/crh](https://liberapay.com/crh)
+
 
 ### My Toolbox
 
