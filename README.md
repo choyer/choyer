@@ -5,9 +5,9 @@ I'm a *Technologist* with skills in **infrastructure engineering / development**
 
 ## 👱🏻‍♂️ Bulletpoint Me
 
-* 📍 I'm based in the [GTA, Ontario, Canada](https://www.openstreetmap.org/search?whereami=1&query=43.8803%2C-79.4391#map=14/43.8803/-79.4391) 🇨🇦
-* 🖊️ I infrequently write things for [my blog](https://carl.hoyer.ca).
-* 🔭 I’m currently working on reviving the ancient two-player game ⚫️⚪️ [Rota](https://github.com/PlayRota) for multiplayer online play.
+* 📍 I'm based in the **[GTA, Ontario, Canada](https://www.openstreetmap.org/search?whereami=1&query=43.8803%2C-79.4391#map=14/43.8803/-79.4391)** 🇨🇦
+* 🖊️ I infrequently write things for **[my website](https://carl.hoyer.ca)**.
+* 🔭 I’m currently working on reviving the ancient two-player game **[Rota](https://github.com/PlayRota)** ⚫️⚪️ for multiplayer online play.
 * 🤔 Constantly expanding my knowledge on **IaC**, **Hybrid Cloud Architecture**, **Go**, **Rust**, and **Cryptography**.
 * 🛠️ I’m looking to increase my contributions to open source projects.	
 * ⛰️ I mountain & distance unicycle. 🧗🏻‍♂️ I rock climb. 🏊🏼‍♂️ I was a competitve swimmer long ago. 🥌 I also curl
@@ -42,8 +42,8 @@ I'm a *Technologist* with skills in **infrastructure engineering / development**
 
 If you find any of my work useful in your endeavours consider supporting their development by sponsoring me 🙏 ...
 
-* Via [Liberapay](https://liberapay.com/crh)
-* Via [Ko-Fi](https://ko-fi.com/crh01)
+* Via **[Liberapay](https://liberapay.com/crh)**
+* Via **[Ko-Fi](https://ko-fi.com/crh01)**
 
 
 🌕🌖🌗🌘🌑🌒🌓🌔
