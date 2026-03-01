@@ -25,7 +25,6 @@ A small selection of some of the software tools I currently use:
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnu.svg" alt="gnu" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" alt="linux" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg" alt="apple" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windows.svg" alt="windows" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="docker" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/go.svg" alt="go" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="git" width="25" height="25" />
