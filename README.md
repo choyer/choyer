@@ -1,8 +1,7 @@
 # 🖖🏻 Greetings. I'm [Carl Hoyer](https://carl.hoyer.ca "Carl Hoyer's website")
 
-I'm a *Technologist* with skills in **infrastructure engineering / development**. I love the whirl and blinkenlights of baremetal just as much as problem solving, the command line, coding and great design. I am people focused.
+I'm a *Technologist* with skills in **infrastructure engineering / development**. I love the whirl and blinkenlights of baremetal just as much as problem solving, the command line, coding and great design. I am people and privacy focused.
 
-![Visits Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fchoyer%2Fchoyer.json&style=for-the-badge&label=Visits&color=green)
 ![GitHub followers](https://img.shields.io/github/followers/choyer?style=for-the-badge&logo=github&color=green)
 ![Liberapay receiving](https://img.shields.io/liberapay/receives/crh?style=for-the-badge&logo=liberapay)
 
@@ -19,6 +18,8 @@ I'm a *Technologist* with skills in **infrastructure engineering / development**
 
 ## 🛠 My Skills Toolbox
 
+A small selection of some of the software tools I currently use:
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" alt="bash" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnu.svg" alt="gnu" width="25" height="25" />
@@ -31,14 +32,11 @@ I'm a *Technologist* with skills in **infrastructure engineering / development**
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" alt="postgresql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nginx.svg" alt="nginx" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" alt="html5" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css.svg" alt="css3" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sass.svg" alt="sass" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/npm.svg" alt="npm" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gulp.svg" alt="gulp" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/affinitydesigner.svg" alt="affinity designer" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/affinitypublisher.svg" alt="affinity publisher" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/affinityphoto.svg" alt="affinity photo" width="25" height="25" />
 </p>
 
 
