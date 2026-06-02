@@ -21,7 +21,7 @@ I'm a *Technologist* with skills in **infrastructure engineering / development**
 A small selection of some of the software tools I currently use:
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" alt="bash" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg/purple" alt="bash" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnu.svg" alt="gnu" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" alt="linux" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg" alt="apple" width="25" height="25" />
