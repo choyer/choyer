@@ -22,20 +22,19 @@ A small selection of some of the software tools I currently use:
 
 <p align="left">
 <img src="https://cdn.simpleicons.org/gnubash/black/white" alt="bash" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnu.svg" alt="gnu" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" alt="linux" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg" alt="apple" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="docker" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/go.svg" alt="go" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="git" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" alt="postgresql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nginx.svg" alt="nginx" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" alt="html5" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sass.svg" alt="sass" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/npm.svg" alt="npm" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gulp.svg" alt="gulp" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg" alt="typescript" width="25" height="25" />
+<img src="https://cdn.simpleicons.org/gnu/black/white" alt="gnu" width="25" height="25" />
+<img src="https://cdn.simpleicons.org/linux/black/white" alt="linux" width="25" height="25" />
+<img src="https://cdn.simpleicons.org/omarchy/black/white" alt="omarchy" width="25" height="25" />
+<img src="https://cdn.simpleicons.org/docker/black/white" alt="docker" width="25" height="25" />
+<img src="https://cdn.simpleicons.org/go/black/white" alt="go" width="25" height="25" />
+<img src="https://cdn.simpleicons.org/git/black/white" alt="git" width="25" height="25" />
+<img src="https://cdn.simpleicons.org/postgresql/black/white" alt="postgresql" width="25" height="25" />
+<img src="https://cdn.simpleicons.org/nginx/black/white" alt="nginx" width="25" height="25" />
+<img src="https://cdn.simpleicons.org/html5/black/white" alt="html5" width="25" height="25" />
+<img src="https://cdn.simpleicons.org/css/black/white" alt="css3" width="25" height="25" />
+<img src="https://cdn.simpleicons.org/sass/black/white" alt="sass" width="25" height="25" />
+<img src="https://cdn.simpleicons.org/gulp/black/white" alt="gulp" width="25" height="25" />
+<img src="https://cdn.simpleicons.org/typescript/black/white" alt="typescript" width="25" height="25" />
 </p>
 
 
