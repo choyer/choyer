@@ -1,5 +1,7 @@
 # 🖖🏻 Greetings. I'm [Carl Hoyer](https://carl.hoyer.ca "Carl Hoyer's website")
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=3000&pause=700&color=FFB000&background=10080000&multiline=true&repeat=false&width=435&height=70&lines=%24+whois+carl.hoyer;loading+.+.+.)](https://git.io/typing-svg)
+
 I'm a *Technologist* with skills in **infrastructure engineering / development**. I love the whirl and blinkenlights of baremetal just as much as problem solving, the command line, coding and great design. I am people and privacy focused.
 
 ![GitHub followers](https://img.shields.io/github/followers/choyer?style=for-the-badge&logo=github&color=green)
